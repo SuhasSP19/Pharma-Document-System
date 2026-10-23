@@ -1,4 +1,4 @@
-Pharma Document Intelligence System is an AI-powered document search application that enables users to query large pharmaceutical PDF documents using plain English questions and receive accurate, context-aware answers instantly — eliminating the need for manual document searching entirely.
+Pharma Document Intelligence System is an AI-powered document search application that enables users to query large pharmaceutical PDF documents using plain English questionss and receive accurate, context-aware answers instantly — eliminating the need for manual document searching entirely.
 
 The core problem this solves is that pharmaceutical professionals and researchers often need to extract specific information from hundreds of pages of drug documentation, clinical trial reports, and regulatory filings. Traditional keyword search returns irrelevant results and manual reading is time-consuming. This system makes that process instant and intelligent.
 
